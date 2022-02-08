@@ -1,4 +1,5 @@
 # Typescript - fundamentals
+This file was created for me to have quick access to all basic knowledge and notes that I have taken when i attended online typescript tutorial. Looking for real apps where I used typescript? Check out my [Vue 2](https://github.com/mikolajborowski/vue2) or [Vue 3](https://github.com/mikolajborowski/vue3) projects.
 
 # What is typescript?
 
